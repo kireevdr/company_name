@@ -1,0 +1,67 @@
+.button-data {
+    font-size: 40px; background-color: #0f75bd; color: white; margin: 15px;
+}
+
+#data-bedankt {
+    margin: 15px;
+    font-size: 64px;
+    display: none;
+    background-color: #0f75bd;
+    color: white;
+    text-align: center;
+}
+
+.branding {
+    vertical-align: top;
+    color: #0f75bd;
+    display: inline-block;
+}
+
+.social-icon {
+    max-height: 32px;
+    margin-right: 20px;
+}
+
+.social-icons {
+display: flex;
+justify-content: flex-start;
+gap: 20px;
+margin-bottom: 20px;
+font-size: 35px;
+}
+
+.social-icons a:hover img {
+transform: scale(1.2);
+}
+
+.button-blog:hover {
+    filter: brightness(150%);
+}
+
+.blog-blog:hover {
+    color: dodgerblue;
+}
+
+a.blog-blog {
+    color: #768089;
+}
+
+a.a-hover:hover {
+    filter: brightness(150%);
+}
+
+.logo-hover:hover {
+    filter: brightness(120%);
+}
+
+.phone-mail-hover:hover {
+    filter: brightness(50%);
+}
+
+.blue-icons {
+    color: #0f75bd;
+}
+
+.footer-menu:hover {
+    filter: brightness(50%);
+}
